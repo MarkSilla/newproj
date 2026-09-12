@@ -1,0 +1,12 @@
+<resources>
+
+    <style
+        name="Theme.PrivateLanScreenShare"
+        parent="android:style/Theme.Material.Light.NoActionBar">
+
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#2563EB</item>
+
+    </style>
+
+</resources>
